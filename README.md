@@ -1,7 +1,9 @@
 # hiking
 urls for hiking trails in NW PA, NY, and OH
 
-# Harborcreek
+# Pennsylvania
+ 
+## Harborcreek
 
 Harborcreek Community Park Trail
 Clark Rd, Harborcreek
@@ -21,6 +23,28 @@ Wintergreen Gorge Trail
 Cooper Road, Harborcreek
 https://erietrails.org/wintergreen-gorge/
 
-# Millcreek
+## Millcreek
+
+Asbury Woods
+4105 Asbury Rd
+https://www.asburywoods.org/
+
+Headwaters Conservation Park
+1927 Wager Rd, Millcreek
+https://www.erieconservation.com/headwaters-park
+
+Karl Boyes Multipurpose National Recreation Trail | Tom Ridge Center Hikes | Presque Isle Trails
+Presque Isle Stat Park Entrance
+301 Peninsula Drive
+https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/presque-isle-state-park/hiking.html
+
+Lake Erie Arboretum at Frontier Park
+West 8th St and Seminole Drive
+https://leaferie.org/pages/arboretum-map
+
+# New York
+
+# Ohio
+
 
 
