@@ -44,6 +44,9 @@ https://leaferie.org/pages/arboretum-map
 
 # New York
 
+West Overland Trail
+https://hikechautauqua.com/west-trail/
+
 # Ohio
 
 
